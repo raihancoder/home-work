@@ -1,0 +1,528 @@
+@media(max-width: 575.98px){
+    .nav-tabs {
+        margin-left: 6px !important;
+    }
+    .payment_menu h2 {
+        font-size: 29px;
+    }
+    .offer_icon_9 a{
+        margin-left: 188px;
+    }
+    .offer_icon_8 a{
+        margin-left: 120px;
+    }
+    .offer_icon_7 a{
+        margin-left: 110px;
+    }
+    .offer_icon_6 a{
+        margin-left: 111px;
+    }
+    .offer_icon_5 a{
+        margin-left: 34px;
+    }
+    .offer_icon_4 a{
+        margin-left: 52px;
+    }
+    .offer_icon_3 a{
+        margin-left: 48px;
+    }
+    .offer_icon_2 a{
+        margin-left: -4px;
+    }
+    .offer_icon_1 a{
+        margin-left: -42px;
+    }
+    .offer_icon a{
+        margin-left: 165px;
+    }
+
+
+    .row_mani::after {
+        left: 60px !important;
+    }
+    .row_mani_1::after {
+        left: 175px !important;
+    }
+    .row_mani_2::after {
+        left: 285px !important;
+    }
+    .row_mani_3::after {
+        left: 420px !important;
+    }
+}
+
+
+@media(min-width:575px) and (max-width:767.98px){
+    .banner_icon h2::after {
+        right: 0px !important;
+    }
+    .row_mani::after {
+        left: 68px !important;
+    }
+    .row_mani_1::after {
+        left: 175px !important;
+    }
+    .row_mani_2::after {
+        left: 285px !important;
+    }
+    .row_mani_3::after {
+        left: 420px !important;
+    }
+}
+@media(max-width:767.98px){
+    .offer_text h3 {
+        margin: 20px 0;
+    }
+    .offer_head {
+        padding: 27px 0;
+    }
+    .Design_icon h4 {
+        font-size: 19px;
+    }
+    .Design_icon p {
+        font-size: 14px;
+    }
+    .payment_baton h4 {
+        font-size: 16px;
+    }
+    .payment_menu h2 {
+        font-size: 31px;
+    }
+    .offer_icon_9 a{
+        margin-left: 154px;
+    }
+    .offer_icon_8 a{
+        margin-left: 86px;
+    }
+    .offer_icon_7 a{
+        margin-left: 78px;
+    }
+    .offer_icon_6 a{
+        margin-left: 78px;
+    }
+    .offer_icon_5 a{
+        margin-left: 0px;
+    }
+    .offer_icon_4 a{
+        margin-left: 18px;
+    }
+    .offer_icon_3 a{
+        margin-left: 15px;
+    }
+    .offer_icon_2 a{
+        margin-left: -37px;
+    }
+    .offer_icon_1 a{
+        margin-left: -78px;
+    }
+    .offer_icon a{
+        margin-left: 130px;
+    }
+
+    .Design_text h2 {
+        font-size: 30px;
+    }
+
+    .Hosting_text h3 {
+        font-size: 17px;
+    }
+    .Domain_text_text h2 {
+        font-size: 32px;
+    }
+    .Hosting_text p {
+        margin-bottom: -25px;
+        font-size: 7px;
+    }
+    .Domain_bottom h3 {
+        font-size: 22px;
+    }
+    .Design_text h2 {
+        font-size: 17px;
+    }
+    .Domain_bottom p{
+        font-size: 11px;
+    }
+    .Domain_text h3 {
+        font-size: 15px;
+    }
+    
+    .header_icon ul{
+        margin-top: 22px;
+    }
+    .header_hemu ul{
+        font-size: 12px;
+        margin-top: 10px;
+    }
+    .banner_icon{
+        text-align: center;
+    }
+    .banner_icon_text{
+        text-align: center;
+    }
+    .bg_menu ul li{
+        text-align: center;
+    }
+    .banner_text{
+        margin-top: 20px;
+        text-align: center;
+    }
+    .Design_icon{
+        position: none;
+    }
+    .about_img{
+        text-align: center;
+    }
+    .nav-tabs {
+        margin-left: 20px !important;
+    }
+    .payment_baton h4 {
+        padding: 6px 7px 0px 12px !important;
+    }
+    .payment_text h4 {
+        font-size: 22px;
+    }
+    .payment_text p {
+        font-size: 12px !important;
+        line-height: 24px !important;
+    }
+    .payment_text h3 {
+        font-size: 25px !important;
+    }
+    .nav-tabs .nav-link {
+        margin: 9px 8px  9px 5px !important;
+    }
+    .nav-link {
+        padding: 0.5rem 0rem !important;
+    }
+    .payment_img{
+        text-align: center !important;
+    }
+    .payment_text{
+        text-align: center !important;
+    }
+    .payment_text p {
+        margin-right: 0px !important;
+    }
+    .about_images{
+        text-align: center !important;
+    }
+    .blog_text{
+        text-align: center !important;
+    }
+    .about_input{
+        text-align: center !important;
+    }
+    .about_input a{
+        margin-top: 20px;
+    }
+    .Contact_text {
+        text-align: center !important;
+    }
+    .last_text {
+        text-align: center !important;
+    }
+    .baton_1{
+        text-align: center;
+    }
+}
+
+
+@media(min-width:768px) and (max-width:991.98px){
+    .payment_text{
+        text-align: center !important;
+    }
+    .payment_text p{
+        margin-left: 80px;
+    }
+    .payment_img{
+        text-align: center !important;
+    }
+    .about_img{
+        text-align: center !important;
+    }
+    .blog_text{
+        text-align: center !important;
+    }
+    .Contact_text {
+        text-align: center !important;
+    }
+    .banner_text{
+        margin-top: 20px;
+        text-align: center;
+    }
+    .nav-tabs {
+        margin-bottom: 20px;
+        margin-left: 116px;
+    }
+    .banner_icon h2::after {
+        right: 0px !important;
+    }
+    .Domain_text h3 {
+        font-size: 21px !important;
+    }
+    .nav-tabs .nav-link {
+        margin: 0 4px !important;
+    }
+    .payment_baton h4 {
+        padding: 3px 0px -0px 0px !important;
+    }
+    .nav-tabs {
+        margin-bottom: 0px !important;
+        margin-left: 60px !important;
+    }
+
+
+    .offer_icon_9 a{
+        margin-left: 320px;
+    }
+    .offer_icon_8 a{
+        margin-left: 252px;
+    }
+    .offer_icon_7 a{
+        margin-left: 242px;
+    }
+    .offer_icon_6 a{
+        margin-left: 243px;
+    }
+    .offer_icon_5 a{
+        margin-left: 165px;
+    }
+    .offer_icon_4 a{
+        margin-left: 184px;
+    }
+    .offer_icon_3 a{
+        margin-left: 180px;
+    }
+    .offer_icon_2 a{
+        margin-left: 128px;
+    }
+    .offer_icon_1 a{
+        margin-left: 88px;
+    }
+    .offer_icon a{
+        margin-left: 295px;
+    }
+
+    .row_mani::after {
+        left: 118px !important;
+    }
+    .row_mani_1::after {
+        left: 248px !important;
+    }
+    .row_mani_2::after {
+        left: 382px !important;
+    }
+    .row_mani_3::after {
+        left: 550px !important;
+    }
+    .offer_text h3 {
+        margin: 20px 0 !important;
+    }
+
+    .Domain_bottom h3 {
+        font-size: 25px !important;
+    }
+    .Domain_bottom p{
+        font-size: 11px !important;
+    }
+    .Design_text h2 {
+        font-size: 24px !important;
+    }
+    .Domain_text_text h2 {
+        font-size: 35px !important;
+    }
+    .Hosting_text h3 {
+        font-size: 25px !important;
+    }
+    .Hosting_text p {
+        margin-bottom: 5px !important;
+        font-size: 11px !important;
+    }
+}
+
+
+@media(min-width:992px) and (max-width:1199.98px){
+    
+    .Domain_icon h3 {
+        font-size: 11px;
+    }
+
+    .offer_icon_9 a{
+        margin-left: 131px;
+    }
+    .offer_icon_8 a{
+        margin-left: 78px;
+    }
+    .offer_icon_7 a{
+        margin-left: 70px;
+    }
+    .offer_icon_6 a{
+        margin-left: 72px;
+    }
+    .offer_icon_5 a{
+        margin-left: 12px;
+    }
+    .offer_icon_4 a{
+        margin-left: 27px;
+    }
+    .offer_icon_3 a{
+        margin-left: 24px;
+    }
+    .offer_icon_2 a{
+        margin-left: -18px;
+    }
+    .offer_icon_1 a{
+        margin-left: -49px;
+    }
+    .offer_icon a{
+        margin-left: 115px;
+    }
+
+    .offer_icon_9 code,
+    .offer_icon_8 code,
+    .offer_icon_7 code,
+    .offer_icon_6 code,
+    .offer_icon_5 code,
+    .offer_icon_4 code,
+    .offer_icon_3 code,
+    .offer_icon_2 code,
+    .offer_icon_1 code,
+    .offer_icon code{
+        font-size: 11px;
+    }
+
+    .payment_baton h4 {
+        padding: 0px 0px 0px 0px !important;
+    }
+    .nav-tabs .nav-link {
+        margin: 0 5px !important;
+    }
+
+    .row_mani::after {
+        left: 255px !important;
+    }
+    .row_mani_1::after {
+        left: 380px !important;
+    }
+    .row_mani_2::after {
+        left: 530px !important;
+    }
+    .row_mani_3::after {
+        left: 690px !important;
+    }
+    .about_img{
+        text-align: center;
+    }
+    .about_img img {
+        padding: 10px 10px !important;
+    }
+    .about_images{
+        margin-top: 120px !important;
+    }
+    .about_input{
+        text-align: center;
+    }
+    .about_input a{
+        margin-top: 20px;
+    }
+    .Contact_text a {
+        margin: 10px 0 0 4px !important;
+    }
+    .offer_text h3 {
+        margin-bottom: 20px !important;
+    }
+    .offer_bottom p {
+        margin: 5px 5px !important;
+    }
+    .Domain_text h3 {
+        font-size: 29px !important;
+    }
+    .banner_icon h2 {
+        font-size: 21px !important;
+    }
+    .banner_icon_text p {
+        font-size: 13px !important;
+    }
+    .banner_text a {
+        font-size: 8px !important;
+    }
+    .Hosting_menu ul {
+        font-size: 15px !important;
+    }
+}
+
+
+@media(min-width:1200px) and (max-width:1399.98px){
+    .offer_icon_9 a{
+        margin-left: 182px;
+    }
+    .offer_icon_8 a{
+        margin-left: 115px;
+    }
+    .offer_icon_7 a{
+        margin-left: 105px;
+    }
+    .offer_icon_6 a{
+        margin-left: 106px;
+    }
+    .offer_icon_5 a{
+        margin-left: 29px;
+    }
+    .offer_icon_4 a{
+        margin-left: 46px;
+    }
+    .offer_icon_3 a{
+        margin-left: 42px;
+    }
+    .offer_icon_2 a{
+        margin-left: -10px;
+    }
+    .offer_icon_1 a{
+        margin-left: -49px;
+    }
+    .offer_icon a{
+        margin-left: 156px;
+    }
+    .about_input{
+        text-align: center;
+    }
+    .about_input a{
+        margin-top: 10px;
+    }
+    .about_img {
+        text-align: center;
+    }
+    .Domain_icon h3 {
+        font-size: 14px;
+    }
+    .nav-tabs .nav-link {
+        margin: 0 10px !important;
+    }
+    .payment_baton h4 {
+        padding: 3px 5px -0px 5px !important;
+    }
+    .row_mani::after {
+        left: 255px !important;
+    }
+    .row_mani_1::after {
+        left: 412px !important;
+    }
+    .row_mani_2::after {
+        left: 580px !important;
+    }
+    .row_mani_3::after {
+        left: 765px !important;
+    }
+    .banner_icon h2 {
+        font-size: 26px !important;
+    }
+    .banner_text a {
+        font-size: 12px;
+    }
+    .about_img img {
+        padding: 10px 0px !important;
+    }
+}
+@media(max-width:1400px){
+    
+}
